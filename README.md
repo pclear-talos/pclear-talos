@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pclear-talos
-- 👀 I’m interested in ... DeFi, DeFi, DeFi. 
-- 🌱 I’m currently learning ... Solidity, Python and Rust.
-- 💞️ I’m looking to collaborate on ... DeFi coding and DApps. 
-- 📫 How to reach me ... send me a message for email. 
+Looking to learn and collaborate with DeFi and DApp coders. 
 
 <!---
 pclear-talos/pclear-talos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
